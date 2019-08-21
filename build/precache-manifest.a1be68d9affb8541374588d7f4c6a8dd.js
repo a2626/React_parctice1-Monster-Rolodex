@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db80c3c317952d1cce03fd4b4b4a4df5",
+    "revision": "1f575c8494e61e1193bd35464a842314",
     "url": "https;//a2626.github.io/React_parctice1-Monster-Rolodex/index.html"
   },
   {
-    "revision": "29872aedbc866ca419e7",
+    "revision": "98427410aab5786614fe",
     "url": "https;//a2626.github.io/React_parctice1-Monster-Rolodex/static/css/main.6290f81b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https;//a2626.github.io/React_parctice1-Monster-Rolodex/static/js/2.9dbee6a0.chunk.js"
   },
   {
-    "revision": "29872aedbc866ca419e7",
-    "url": "https;//a2626.github.io/React_parctice1-Monster-Rolodex/static/js/main.2dd916ee.chunk.js"
+    "revision": "98427410aab5786614fe",
+    "url": "https;//a2626.github.io/React_parctice1-Monster-Rolodex/static/js/main.af2e4c85.chunk.js"
   },
   {
     "revision": "e782ae451b26bf7404d9",
